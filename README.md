@@ -1,2 +1,3 @@
 # Minipractica de Contrastes de Hipotesis
- En este Notebook haremos un breve repaso sobre los contrastes de hipótesis, cómo plantearlos y cómo interpretar los resultados, de cara a practicar nuestras habilidades estadísticas
+  En este Notebook repasaremos la librería de titanic disponible en seaborn. El objetivo de este mini proyecto es practicar la metodología más que llegar a conclusiones sólidas o reales, por lo que las preguntas serán simples y tampoco habrá un trabajo exhaustivo de limpieza de datos previo, además de que, como veremos, las muestras serán bastante más reducidas que en el proyecto de Titanic.
+  Sin embargo, esta etapa resulta fundamental para familiarizarnos e introducirnos en el planteamiento de hipótesis, pensar un gráfico para visualizar los datos, si procede, y cuál es el test más apropiado para evaluar y juzgar dicha hipótesis, además de practicar la comunicación de los resultados.
